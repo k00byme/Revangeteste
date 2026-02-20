@@ -1,1 +1,13 @@
-
+{
+  "name": "Confetti",
+  "description": "Colorful confetti falling overlay",
+  "authors": [
+    {
+      "name": "k00byme"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_party"
+  }
+}
