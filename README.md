@@ -1,1 +1,1 @@
-lol
+"main": "index.js"
