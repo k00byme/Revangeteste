@@ -142,9 +142,6 @@
           "StatusDND": "#A2C8F6",
           "StatusOffline": "#5C6F84",
           "StatusOnline": "#A2C8F6"
-          }
-    },
-    "spec": 2
 },
 
 "background": {
