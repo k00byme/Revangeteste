@@ -33,10 +33,10 @@
       "#071A36"
     ],
     "BACKGROUND_SECONDARY": [
-      "#08244F"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#08244F"
+      "#000000"
     ],
     "BACKGROUND_TERTIARY": [
       "#071A36"
@@ -45,7 +45,7 @@
       "#071A36"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#08244F"
+      "#000000"
     ],
     "BG_BASE_PRIMARY": [
       "#071A36"
@@ -558,6 +558,7 @@
     "PLUM_20": "#071A36",
     "PLUM_21": "#071A36",
     "PLUM_22": "#071A36",
+    "PLUM_23": "#000000",
     "PLUM_24": "#071A36",
     "PLUM_25": "#071A36",
 
@@ -624,13 +625,13 @@
     "dividerColor": "#0B3D85",
 
     "StatusOnline": [
-      "#A4BDE0"
+      "#6189C2"
     ],
     "StatusIdle": [
-      "#DCDDDE"
+      "#6189C2"
     ],
     "StatusDND": [
-      "#185AB8"
+      "#6189C2"
     ],
     "StatusOffline": [
       "#254573"
@@ -639,7 +640,7 @@
       "#185AB8"
     ],
     "StatusMobileOnline": [
-      "#A4BDE0"
+      "#6189C2"
     ],
 
     "CALL_BACKGROUND": [
@@ -823,4 +824,4 @@
     "alpha": 0.68,
     "blur": 0.5
   }
-}
+  }
