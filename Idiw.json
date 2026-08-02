@@ -1,10 +1,10 @@
 {
-  "name": "Snowy Rain",
+  "name": "Burhen",
   "description": "snowy aesthetic silly chilly background",
   "version": "1.0",
   "authors": [
     {
-      "name": "Noctra",
+      "name": "N",
       "id": "1387455182526484582"
     }
   ],
@@ -30,7 +30,7 @@
       "#08101CDD"
     ],
     "BACKGROUND_PRIMARY": [
-      "#071A36"
+      "#000000"
     ],
     "BACKGROUND_SECONDARY": [
       "#000000"
@@ -642,7 +642,18 @@
     "StatusMobileOnline": [
       "#6189C2"
     ],
-
+    "TEXT_STATUS_DND": [
+      "#6189C2"
+    ],
+    "TEXT_STATUS_IDLE": [
+      "#6189C2"
+    ],
+    "TEXT_STATUS_MOBILEONLINE": [
+      "#6189C2"
+    ],
+    "TEXT_STATUS_ONLINE": [
+      "#6189C2"
+    ],
     "CALL_BACKGROUND": [
       "#071A36"
     ],
